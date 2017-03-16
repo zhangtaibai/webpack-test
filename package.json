@@ -1,0 +1,28 @@
+{
+  "name": "limeizhang",
+  "version": "1.0.0",
+  "description": "it is a test",
+  "main": "entry.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhangtaibai/webpack-test.git"
+  },
+  "keywords": [
+    "webpack"
+  ],
+  "author": "limeizhang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhangtaibai/webpack-test/issues"
+  },
+  "homepage": "https://github.com/zhangtaibai/webpack-test#readme",
+  "devDependencies": {
+    "css-loader": "^0.27.3",
+    "style-loader": "^0.14.1",
+    "webpack": "^2.2.1",
+    "webpack-dev-server": "^2.4.2"
+  }
+}
